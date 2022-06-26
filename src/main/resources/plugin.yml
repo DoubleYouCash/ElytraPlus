@@ -1,0 +1,7 @@
+name: ElytraPlus
+version: '${project.version}'
+main: com.wcash.elytraplus.ElytraPlus
+api-version: 1.19
+authors: [ Wcash, kinglol12345 ]
+description: Recode of the ElytraPlus Plugin (Orig. by kinglol12345)
+website: https://github.com/DoubleYouCash/ElytraPlus
